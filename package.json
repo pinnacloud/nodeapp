@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "https://github.com/asad059"
+    "registry": "https://nexus-repo/asad059"
   },
   
   "scripts": {
