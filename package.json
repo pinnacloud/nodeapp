@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "https://nexus-repo/asad059"
+    "registry": "http://54.163.196.3:9980/pinnacloud/repository/nodejsproject/"
   },
   
   "scripts": {
